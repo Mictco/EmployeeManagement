@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-X\/LV9y\/eBkJ02PkxqBZje\/TZ2852rt+2bO0CkxOSIjA=",
+      "hash": "sha256-wlzY4UmLIeHtDQN0PZPSaBzr6WdjUtgmPZmOtL5dVdU=",
       "url": "_framework\/_bin\/EmployeeManager.Client.dll"
     },
     {
@@ -341,7 +341,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-wsrQGn28oYE3j5e6OV+f\/2\/aRWVDn+Fp0ujdrRfeo\/0=",
+      "hash": "sha256-bOq5Zqv6xhabPUxfLPmosMzH5\/KzLCMnaTWHCSm67YA=",
       "url": "_framework\/_bin\/EmployeeManager.Client.pdb"
     },
     {
@@ -417,9 +417,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-nTdyD8rmJ1JLKx6xsnS04RidFNXeLv0Uh9IUKl+OEDQ=",
+      "hash": "sha256-msrg4vvYsfQ0OBLyZw+rCMFY6IvVnFEukJoI59eYBkE=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "1rnkQ3ot"
+  "version": "Fc2W2qI1"
 };

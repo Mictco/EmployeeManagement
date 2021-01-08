@@ -1,0 +1,40 @@
+﻿@page "/employee/delete/{empID}/"
+@inherits DeleteEmployeeData
+<br />
+<br />
+<h1>Delete Employee</h1>
+<hr />
+
+<EditForm Model="@emp">
+    <div class="form-group row">
+        <label class="control-label col-md-12">Name</label>
+        <div class="col-md-4">
+            <output class="form-control" @bind="emp.EmployeeName" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <label class="control-label col-md-12">Gender</label>
+        <div class="col-md-4">
+            <output class="form-control" @bind="emp.Gender" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <label class="control-label col-md-12">Designation</label>
+        <div class="col-md-4">
+            <output class="form-control" @bind="emp.Designation" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <label class="control-label col-md-12">City</label>
+        <div class="col-md-4">
+            <output class="form-control" @bind="emp.CityName" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-danger" @onclick="(()=>DeleteConfirm(emp.EmployeeId))">Cancel</button>
+        <button class="btn btn-light" @onclick="Cancel">Cancel</button>
+    </div>
+</EditForm>
+
+

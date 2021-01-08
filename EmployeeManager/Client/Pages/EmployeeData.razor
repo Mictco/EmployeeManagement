@@ -42,49 +42,8 @@
     <td>@emp.CityName</td>
     <td>
         <a href='/employee/edit/@emp.EmployeeId' class="btn btn-outline-dark" role="button"> <i class="fa fa-pencil-square-o"></i> Edit</a>
-        <button class="btn btn-outline-danger" data-toggle="modal" data-target="#deleteEmpModal"
-                @onclick="(()=>DeleteConfirm(emp.EmployeeId))">
-            <i class="fa fa-trash-o"></i>
-            Delete
-        </button>
+        <a href='/employee/delete/@emp.EmployeeId' class="btn btn-outline-danger" role="button"> <i class="fa fa-pencil-square-o"></i> Delete</a>
     </td>
 </tr>}
     </tbody>
 </table>}
-
-<div class="modal fade" id="deleteEmpModal">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h3 class="modal-title">Confirm Delete !!!</h3>
-                <button type="button" class="close" data-dismiss="modal">
-                    <span aria-hidden="true">X</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <table class="table">
-                    <tr>
-                        <td>Name</td>
-                        <td>@emp.EmployeeName</td>
-                    </tr>
-                    <tr>
-                        <td>Gender</td>
-                        <td>@emp.Gender</td>
-                    </tr>
-                    <tr>
-                        <td>Designation</td>
-                        <td>@emp.Designation</td>
-                    </tr>
-                    <tr>
-                        <td>City</td>
-                        <td>@emp.CityName</td>
-                    </tr>
-                </table>
-            </div>
-            <div class="modal-footer">
-                <button class="btn btn-danger" @onclick="(async () => await DeleteEmployee(emp.EmployeeId))" data-dismiss="modal">Delete</button>
-                <button data-dismiss="modal" class="btn btn-light">Cancel</button>
-            </div>
-        </div>
-    </div>
-</div>

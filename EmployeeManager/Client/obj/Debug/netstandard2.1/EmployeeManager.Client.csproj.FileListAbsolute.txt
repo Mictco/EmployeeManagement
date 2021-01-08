@@ -541,7 +541,10 @@ D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\co
 D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Grpc.Core.pdb.br
 D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\AddEditEmployee.razor.g.cs
 D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\Razor\Pages\AddEditEmployee.razor.g.cs
-D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\integrity\X-LV9y-eBkJ02PkxqBZje-TZ2852rt_2bO0CkxOSIjA=.hash
-D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\integrity\wsrQGn28oYE3j5e6OV_f-2-aRWVDn_Fp0ujdrRfeo-0=.hash
-D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\integrity\nTdyD8rmJ1JLKx6xsnS04RidFNXeLv0Uh9IUKl_OEDQ=.hash
-D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\integrity\zWPxr0P8kKvwcEZtLYegG3ljfbJofKihurwJBvQeKQw=.hash
+D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\DeleteEmployee.razor.g.cs
+D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\Razor\Pages\DeleteEmployee.razor.g.cs
+D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\integrity\8_zMyx7uD3Rcxy_QK-FLgU8ZbPeDaTrY3Th75eW9bYo=.hash
+D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\integrity\wlzY4UmLIeHtDQN0PZPSaBzr6WdjUtgmPZmOtL5dVdU=.hash
+D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\integrity\bOq5Zqv6xhabPUxfLPmosMzH5-KzLCMnaTWHCSm67YA=.hash
+D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\integrity\msrg4vvYsfQ0OBLyZw_rCMFY6IvVnFEukJoI59eYBkE=.hash
+D:\Experiment\EmployeeManager\EmployeeManager\Client\obj\Debug\netstandard2.1\integrity\0D6rYr75mTk_VgNBFOCFvGepKx5gVbSXCktEkgpkreg=.hash

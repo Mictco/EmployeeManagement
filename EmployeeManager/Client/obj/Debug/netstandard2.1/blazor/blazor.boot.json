@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "EmployeeManager.Client.dll": "sha256-X\/LV9y\/eBkJ02PkxqBZje\/TZ2852rt+2bO0CkxOSIjA=",
+      "EmployeeManager.Client.dll": "sha256-wlzY4UmLIeHtDQN0PZPSaBzr6WdjUtgmPZmOtL5dVdU=",
       "System.Text.Json.dll": "sha256-HQeN+ZfHAERO+uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-kL\/omZDwqByAi+lPdMeDmr3XjHcn4RVb+LmZ4mut1Yc=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -77,7 +77,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "EmployeeManager.Client.pdb": "sha256-wsrQGn28oYE3j5e6OV+f\/2\/aRWVDn+Fp0ujdrRfeo\/0=",
+      "EmployeeManager.Client.pdb": "sha256-bOq5Zqv6xhabPUxfLPmosMzH5\/KzLCMnaTWHCSm67YA=",
       "EmployeeManager.Shared.pdb": "sha256-XKNjIC6tXx785m2GQTkAXW1Mm1KHojVUFHwL565Bclw=",
       "Google.Cloud.Firestore.pdb": "sha256-Nik81pRJ+4NPRapOAkMzC64RVxsMyw+YxIVWDv5yjLo=",
       "Google.Api.CommonProtos.pdb": "sha256-vZ18c8L7aTy3yF5LXwboBmtf2dabeovnc\/HxL6KjG6M=",
