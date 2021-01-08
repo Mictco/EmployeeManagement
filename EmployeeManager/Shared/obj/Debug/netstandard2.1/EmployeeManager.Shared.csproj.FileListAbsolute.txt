@@ -1,0 +1,9 @@
+D:\Experiment\EmployeeManager\EmployeeManager\Shared\bin\Debug\netstandard2.1\EmployeeManager.Shared.deps.json
+D:\Experiment\EmployeeManager\EmployeeManager\Shared\bin\Debug\netstandard2.1\EmployeeManager.Shared.dll
+D:\Experiment\EmployeeManager\EmployeeManager\Shared\bin\Debug\netstandard2.1\EmployeeManager.Shared.pdb
+D:\Experiment\EmployeeManager\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.csprojAssemblyReference.cache
+D:\Experiment\EmployeeManager\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.AssemblyInfoInputs.cache
+D:\Experiment\EmployeeManager\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.AssemblyInfo.cs
+D:\Experiment\EmployeeManager\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.csproj.CoreCompileInputs.cache
+D:\Experiment\EmployeeManager\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.dll
+D:\Experiment\EmployeeManager\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.pdb
