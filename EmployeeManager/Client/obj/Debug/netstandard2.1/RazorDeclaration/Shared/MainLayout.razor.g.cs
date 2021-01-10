@@ -13,63 +13,63 @@ namespace EmployeeManager.Client.Shared
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "D:\Experiment\EmployeeManager\EmployeeManager\Client\_Imports.razor"
+#line 1 "E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\Experiment\EmployeeManager\EmployeeManager\Client\_Imports.razor"
+#line 2 "E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\Experiment\EmployeeManager\EmployeeManager\Client\_Imports.razor"
+#line 3 "E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "D:\Experiment\EmployeeManager\EmployeeManager\Client\_Imports.razor"
+#line 4 "E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "D:\Experiment\EmployeeManager\EmployeeManager\Client\_Imports.razor"
+#line 5 "E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "D:\Experiment\EmployeeManager\EmployeeManager\Client\_Imports.razor"
+#line 6 "E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "D:\Experiment\EmployeeManager\EmployeeManager\Client\_Imports.razor"
+#line 7 "E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "D:\Experiment\EmployeeManager\EmployeeManager\Client\_Imports.razor"
+#line 8 "E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\_Imports.razor"
 using EmployeeManager.Client;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "D:\Experiment\EmployeeManager\EmployeeManager\Client\_Imports.razor"
+#line 9 "E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\_Imports.razor"
 using EmployeeManager.Client.Shared;
 
 #line default

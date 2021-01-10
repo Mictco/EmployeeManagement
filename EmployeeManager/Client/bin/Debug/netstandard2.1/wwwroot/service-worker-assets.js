@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-wlzY4UmLIeHtDQN0PZPSaBzr6WdjUtgmPZmOtL5dVdU=",
+      "hash": "sha256-XiBkYi2vqQq9PY1fSsdgo++upV2QcdYzUKVoIGPSIXI=",
       "url": "_framework\/_bin\/EmployeeManager.Client.dll"
     },
     {
@@ -217,7 +217,7 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-CWY\/g0xLY5YaiYfxj3TKpYgKc6tu2+A4iQ2wjQWksVQ=",
+      "hash": "sha256-aC+TbALUPb+odYai4kg0YBjT6J\/SMuG1KaXCB7Y8Zic=",
       "url": "_framework\/_bin\/EmployeeManager.Shared.dll"
     },
     {
@@ -341,11 +341,11 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-bOq5Zqv6xhabPUxfLPmosMzH5\/KzLCMnaTWHCSm67YA=",
+      "hash": "sha256-z3KOArVEnl+ZJozM7bg2VMdtedvg9nnDtaypdlR8chA=",
       "url": "_framework\/_bin\/EmployeeManager.Client.pdb"
     },
     {
-      "hash": "sha256-XKNjIC6tXx785m2GQTkAXW1Mm1KHojVUFHwL565Bclw=",
+      "hash": "sha256-qapGk2ucL7emDnBxX0kMqBy07vhhCw2A0F0gCNRAehI=",
       "url": "_framework\/_bin\/EmployeeManager.Shared.pdb"
     },
     {
@@ -417,9 +417,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-msrg4vvYsfQ0OBLyZw+rCMFY6IvVnFEukJoI59eYBkE=",
+      "hash": "sha256-NJImh6RRZrzsoMB01bWCGmNLkSHJWhMjw+4kOecue5k=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "Fc2W2qI1"
+  "version": "G4ZLffsC"
 };

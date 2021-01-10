@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "EmployeeManager.Client.dll": "sha256-wlzY4UmLIeHtDQN0PZPSaBzr6WdjUtgmPZmOtL5dVdU=",
+      "EmployeeManager.Client.dll": "sha256-XiBkYi2vqQq9PY1fSsdgo++upV2QcdYzUKVoIGPSIXI=",
       "System.Text.Json.dll": "sha256-HQeN+ZfHAERO+uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-kL\/omZDwqByAi+lPdMeDmr3XjHcn4RVb+LmZ4mut1Yc=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -44,7 +44,7 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=",
-      "EmployeeManager.Shared.dll": "sha256-CWY\/g0xLY5YaiYfxj3TKpYgKc6tu2+A4iQ2wjQWksVQ=",
+      "EmployeeManager.Shared.dll": "sha256-aC+TbALUPb+odYai4kg0YBjT6J\/SMuG1KaXCB7Y8Zic=",
       "Google.Cloud.Firestore.dll": "sha256-teQu2mIHME6\/RcsytG0f1Hfarx2zUhABRQFinBvn\/QA=",
       "System.Linq.Async.dll": "sha256-BnpM1bExpUD9Dg4W8RY41c64k+e6nh3CWjREnfNaGe0=",
       "Google.Api.CommonProtos.dll": "sha256-bRsK04vBhKNqMUXmyE57jhz+DcZ9PhP\/GAVfr3r3Fgo=",
@@ -77,8 +77,8 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "EmployeeManager.Client.pdb": "sha256-bOq5Zqv6xhabPUxfLPmosMzH5\/KzLCMnaTWHCSm67YA=",
-      "EmployeeManager.Shared.pdb": "sha256-XKNjIC6tXx785m2GQTkAXW1Mm1KHojVUFHwL565Bclw=",
+      "EmployeeManager.Client.pdb": "sha256-z3KOArVEnl+ZJozM7bg2VMdtedvg9nnDtaypdlR8chA=",
+      "EmployeeManager.Shared.pdb": "sha256-qapGk2ucL7emDnBxX0kMqBy07vhhCw2A0F0gCNRAehI=",
       "Google.Cloud.Firestore.pdb": "sha256-Nik81pRJ+4NPRapOAkMzC64RVxsMyw+YxIVWDv5yjLo=",
       "Google.Api.CommonProtos.pdb": "sha256-vZ18c8L7aTy3yF5LXwboBmtf2dabeovnc\/HxL6KjG6M=",
       "Google.Protobuf.pdb": "sha256-w4zZFsnCn68Gl8CQDbzlJAEbt44TjvKujAGfJkdSKqk=",

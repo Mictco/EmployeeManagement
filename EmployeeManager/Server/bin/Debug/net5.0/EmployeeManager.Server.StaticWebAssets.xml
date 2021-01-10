@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="D:\Experiment\EmployeeManager\EmployeeManager\Client\bin\Debug\netstandard2.1\wwwroot\" />
-  <ContentRoot BasePath="/" Path="D:\Experiment\EmployeeManager\EmployeeManager\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Client\wwwroot\" />
 </StaticWebAssets>

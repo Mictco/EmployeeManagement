@@ -7,3 +7,12 @@ D:\Experiment\EmployeeManager\EmployeeManager\Shared\obj\Debug\netstandard2.1\Em
 D:\Experiment\EmployeeManager\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.csproj.CoreCompileInputs.cache
 D:\Experiment\EmployeeManager\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.dll
 D:\Experiment\EmployeeManager\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.pdb
+E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Shared\bin\Debug\netstandard2.1\EmployeeManager.Shared.deps.json
+E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Shared\bin\Debug\netstandard2.1\EmployeeManager.Shared.dll
+E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Shared\bin\Debug\netstandard2.1\EmployeeManager.Shared.pdb
+E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.csprojAssemblyReference.cache
+E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.AssemblyInfoInputs.cache
+E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.AssemblyInfo.cs
+E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.csproj.CoreCompileInputs.cache
+E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.dll
+E:\Experiment\Blazor\EmployeeManagement\EmployeeManagement\EmployeeManager\Shared\obj\Debug\netstandard2.1\EmployeeManager.Shared.pdb

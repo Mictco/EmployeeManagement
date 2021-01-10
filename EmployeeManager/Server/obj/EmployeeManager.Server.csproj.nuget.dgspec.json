@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Server\\EmployeeManager.Server.csproj": {}
+    "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Server\\EmployeeManager.Server.csproj": {}
   },
   "projects": {
-    "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Client\\EmployeeManager.Client.csproj": {
+    "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Client\\EmployeeManager.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Client\\EmployeeManager.Client.csproj",
+        "projectUniqueName": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Client\\EmployeeManager.Client.csproj",
         "projectName": "EmployeeManager.Client",
-        "projectPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Client\\EmployeeManager.Client.csproj",
-        "packagesPath": "C:\\Users\\MICTCO\\.nuget\\packages\\",
-        "outputPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Client\\obj\\",
+        "projectPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Client\\EmployeeManager.Client.csproj",
+        "packagesPath": "C:\\Users\\Ashpro\\.nuget\\packages\\",
+        "outputPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MICTCO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ashpro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj": {
-                "projectPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj"
+              "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj": {
+                "projectPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj"
               }
             }
           }
@@ -83,17 +82,17 @@
         }
       }
     },
-    "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Server\\EmployeeManager.Server.csproj": {
+    "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Server\\EmployeeManager.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Server\\EmployeeManager.Server.csproj",
+        "projectUniqueName": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Server\\EmployeeManager.Server.csproj",
         "projectName": "EmployeeManager.Server",
-        "projectPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Server\\EmployeeManager.Server.csproj",
-        "packagesPath": "C:\\Users\\MICTCO\\.nuget\\packages\\",
-        "outputPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Server\\obj\\",
+        "projectPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Server\\EmployeeManager.Server.csproj",
+        "packagesPath": "C:\\Users\\Ashpro\\.nuget\\packages\\",
+        "outputPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MICTCO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ashpro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,18 +100,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Client\\EmployeeManager.Client.csproj": {
-                "projectPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Client\\EmployeeManager.Client.csproj"
+              "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Client\\EmployeeManager.Client.csproj": {
+                "projectPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Client\\EmployeeManager.Client.csproj"
               },
-              "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj": {
-                "projectPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj"
+              "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj": {
+                "projectPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj"
               }
             }
           }
@@ -158,17 +156,17 @@
         }
       }
     },
-    "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj": {
+    "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj",
+        "projectUniqueName": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj",
         "projectName": "EmployeeManager.Shared",
-        "projectPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj",
-        "packagesPath": "C:\\Users\\MICTCO\\.nuget\\packages\\",
-        "outputPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Shared\\obj\\",
+        "projectPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj",
+        "packagesPath": "C:\\Users\\Ashpro\\.nuget\\packages\\",
+        "outputPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MICTCO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ashpro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -176,8 +174,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {

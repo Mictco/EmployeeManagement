@@ -8,18 +8,21 @@ namespace EmployeeManager.Shared
     public class Employee
     {
         public string EmployeeId { get; set; }
-        public DateTime date { get; set; }
         [FirestoreProperty]
         [Required]
         public string EmployeeName { get; set; }
         [FirestoreProperty]
         [Required]
-        public string CityName { get; set; }
+        public string Company { get; set; }
         [FirestoreProperty]
         [Required]
-        public string Designation { get; set; }
+        public string JobType { get; set; }
         [FirestoreProperty]
         [Required]
-        public string Gender { get; set; }
+        public bool IsActive { get; set; }
+        [FirestoreProperty]
+        [Required]
+        public string Password { get; set; }
+
     }
 }

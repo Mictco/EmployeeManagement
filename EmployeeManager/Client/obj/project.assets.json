@@ -2275,19 +2275,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MICTCO\\.nuget\\packages\\": {}
+    "C:\\Users\\Ashpro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Client\\EmployeeManager.Client.csproj",
+      "projectUniqueName": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Client\\EmployeeManager.Client.csproj",
       "projectName": "EmployeeManager.Client",
-      "projectPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Client\\EmployeeManager.Client.csproj",
-      "packagesPath": "C:\\Users\\MICTCO\\.nuget\\packages\\",
-      "outputPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Client\\obj\\",
+      "projectPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Client\\EmployeeManager.Client.csproj",
+      "packagesPath": "C:\\Users\\Ashpro\\.nuget\\packages\\",
+      "outputPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MICTCO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ashpro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2295,15 +2295,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj": {
-              "projectPath": "D:\\Experiment\\EmployeeManager\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj"
+            "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj": {
+              "projectPath": "E:\\Experiment\\Blazor\\EmployeeManagement\\EmployeeManagement\\EmployeeManager\\Shared\\EmployeeManager.Shared.csproj"
             }
           }
         }
